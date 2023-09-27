@@ -1,0 +1,7 @@
+{
+    "name": "felipe/redisfila",
+    "type": "project",
+    "require": {
+        "predis/predis": "^2.0"
+    }
+}
